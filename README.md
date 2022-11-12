@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Navik Academy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is aviable on github [Create React App](https://github.com/Barat-Tojiyev/houzing).
 
 ## Available Scripts
 
